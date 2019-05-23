@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">My Bible Quiz</string>
+
+
+    <string name="correct_toast">Halleluyah!</string>
+    <string name="incorrect_toast">wrong!</string>
+
+    <string name="question_1">God created the earth we see in six days.</string>
+    <string name="question_2">The light in Genesis 1:3 is different from that of in verse 14 to 16.</string>
+    <string name="question_3">Day one of creation, God created Day and night.</string>
+    <string name="question_4">Day two of creation, God separated the waters form the land and called the Dry land \“earth\”.
+</string>
+    <string name="question_5">Day three of creation, God created the vegetation to yield their seeds and fruits</string>
+    <string name="question_6">Day five of creation, God created the wild and domestic animals after their kinds</string>
+    <string name="question_7">Land animals and man were created on the same day</string>
+    <string name="question_8">\“Let us make man in our image\” God was talking to the angels</string>
+    <string name="question_9">Man according to God\’s original plan, was a vegetarian.</string>
+    <string name="question_10">God created Adam and Eve the same day</string>
+    <string name="question_11">Eden was the name of the garden God placed man.</string>
+    <string name="question_12">Man was forbidden by God to eat from the tree of life.</string>
+    <string name="question_13">The tree of knowledge of good and evil was planted in the center of the garden.</string>
+    <string name="question_14">God created Eve because Man was lonely.</string>
+    <string name="question_15">Eve was called woman by Adam because she was taken from him.</string>
+
+    <string name="question_16">The serpent was the most cunning of all animals in the garden of Eden.</string>
+    <string name="question_17">God instructed Adam and Eve not to even touch the fruits of the tree of knowledge of good and evil.</string>
+    <string name="question_18">When Adam and Eve ate the fruit of knowledge of good and evil they became naked.</string>
+    <string name="question_19">When God found Adam guilty and naked, he blamed Eve, and Even blamed the serpent.</string>
+    <string name="question_20">Adam\’s punishment was that through hard work will he eat food that comes from the ground</string>
+    <string name="question_21">Eve\’s punishment was; increase in pains at child labor.</string>
+    <string name="question_22">The Name Eve means mother of every living person</string>
+    <string name="question_23">God placed creatures around the garden of Eden to prevent Adam and Eve from eating from the tree of life.</string>
+    <string name="question_24">Abel was a farmer and Cain was a shepherd.</string>
+    <string name="question_25">Cain killed Abel because God loved Abel more than him.</string>
+    <string name="question_26">Adam and Eve never had daughters, only sons.</string>
+    <string name="question_27">Lamech, a descendant of Cain also became a murderer.</string>
+    <string name="question_28">Enoch walked with God; then he was not; God took him.</string>
+    <string name="question_29">Methuselah is the oldest man that ever lived.</string>
+    <string name="question_30">The sons of God that took men\’s daughters for wives are also descendants of Adam.</string>
+
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="initial_score">Score: 0/15</string>
+    <string name="level_one">Level One</string>
+    <string name="level_two">Level Two</string>
+    <string name="level_three">Level Three</string>
+    <string name="level_four">Level Four</string>
+    <string name="level_five">Level Five</string>
+    <string name="old_testament">OLD TESTAMENT</string>
+    <string name="new_testament">NEW TESTAMENT</string>
+    <string name="welcome">Welcome!</string>
+    <string name="intro">Study to shew thyself approved unto God, a workman that needeth not to be ashamed, rightly dividing the word of truth.</string>
+    <string name="_2_timothy_2_15">2 Timothy 2:15</string>
+    <string name="todo">TODO</string>
+
+
+</resources>
